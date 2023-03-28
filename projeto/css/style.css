@@ -38,7 +38,7 @@ main {
 }
 
 .robo {
-    height: 110%;
+    height: 100%;
     z-index: 1;
     position: absolute;
     left: -20%;
@@ -86,7 +86,7 @@ main {
 .peca-titulo {
     color: var(--main-branco);
     text-transform: uppercase;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 .controle {
